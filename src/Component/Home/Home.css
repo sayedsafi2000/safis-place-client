@@ -1,0 +1,5 @@
+.pagination .selected{
+    background-color: goldenrod;
+    border: red;
+box-shadow: 10px solid gray;
+}
